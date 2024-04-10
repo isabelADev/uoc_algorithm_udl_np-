@@ -9,3 +9,7 @@ Once nppp is installed
 2. Select `User Defined Language` option
 3. Select `Define your language....` option
 4. Click on `Import...` button and select the downloaded xml file.
+
+Example:
+
+![Highlight example](highlight_example.png)
